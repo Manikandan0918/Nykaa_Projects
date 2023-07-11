@@ -1,0 +1,44 @@
+GIT (HUB)
+------------
+
+1) what is Git
+2) What is a version control system
+3) why was it created
+4) Git vs Github
+
+Git is a terminal nd  Github is a webApplication
+
+5) Some Basic terminologies before getting started. Basic terms! Don't
+PEEP into ADVANCED TERMS
+
+
+
+GIT : Linus Torvalds
+Version Control System
+
+BASIC GITHUB TERMINOLOGIES
+
+1. Repositories
+folder contains all the files related to a project
+2. Read me file (basic instruction about the project)
+3. commit (saving the state)
+
+ADVANCE GITHUB TERMINOLOIES
+
+4. Branch
+5. Merge
+6. Fork
+7. Pull request
+
+
+
+
+
+
+
+
+
+
+
+
+
