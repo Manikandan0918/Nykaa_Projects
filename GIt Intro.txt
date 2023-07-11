@@ -30,6 +30,8 @@ ADVANCE GITHUB TERMINOLOIES
 6. Fork
 7. Pull request
 
+Exit
+
 
 
 
